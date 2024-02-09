@@ -53,8 +53,6 @@ Ensure you have Python 3.x installed on your machine, along with pip for package
    ```sh
    python app.py
    ```
-5. **Visit the web interface:** Open a web browser and go to `http://localhost:5000`.
-
 ## Contributing
 
 We welcome contributions from the community. Whether it's adding new features, improving the model, or fixing bugs, your contributions are greatly appreciated. Please follow these steps to contribute:
